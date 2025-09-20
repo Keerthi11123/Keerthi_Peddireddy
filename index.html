@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Keerthi Peddireddy • Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <div id="app" class="container">
+    <header class="glass header">
+      <div class="identity">
+        <img src="assets/avatar.svg" alt="Avatar" class="avatar" />
+        <div>
+          <h1 id="name"></h1>
+          <p id="title" class="muted"></p>
+          <div class="chips" id="concepts"></div>
+        </div>
+      </div>
+      <nav class="nav">
+        <button data-route="home" class="nav-btn">Home</button>
+        <button data-route="experience" class="nav-btn">Experience</button>
+        <button data-route="projects" class="nav-btn">Projects</button>
+        <button data-route="skills" class="nav-btn">Skills</button>
+        <button data-route="education" class="nav-btn">Education</button>
+        <button data-route="contact" class="nav-btn">Contact</button>
+        <label class="switch" title="Toggle theme">
+          <input id="themeToggle" type="checkbox">
+          <span class="slider"></span>
+        </label>
+      </nav>
+    </header>
+
+    <main id="view"></main>
+
+    <footer class="muted footer">
+      <span>© <span id="year"></span> <strong>Keerthi Peddireddy</strong></span>
+      <span>Built with vanilla JS • No frameworks • Lightning fast</span>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

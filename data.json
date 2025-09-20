@@ -1,0 +1,153 @@
+{
+  "name": "Keerthi Peddireddy",
+  "title": "Full\u2011Stack Engineer \u2022 Applied AI & ML",
+  "location": "Cincinnati, OH",
+  "email": "keerthireddyc7@gmail.com",
+  "phone": "513(859)4485",
+  "profiles": {
+    "github": "https://github.com/Keerthi11123",
+    "linkedin": ""
+  },
+  "summary": "Full\u2011stack software engineer with a passion for building secure, real\u2011time systems and a growing focus on applied AI and machine learning. From architecting FastAPI\u2011Kafka backends to deploying LLM\u2011based assistants and CNN models, I thrive at the intersection of infrastructure and intelligence. Curious, hands\u2011on, and impact\u2011driven\u2014I enjoy turning complex data and models into practical, user\u2011facing tools that solve real problems.",
+  "skills": [
+    {
+      "name": "Python",
+      "level": 90
+    },
+    {
+      "name": "SQL",
+      "level": 85
+    },
+    {
+      "name": "FastAPI",
+      "level": 90
+    },
+    {
+      "name": "React.js",
+      "level": 75
+    },
+    {
+      "name": "TensorFlow",
+      "level": 75
+    },
+    {
+      "name": "scikit\u2011learn",
+      "level": 80
+    },
+    {
+      "name": "AWS (S3/Lambda/SQS)",
+      "level": 78
+    },
+    {
+      "name": "Docker",
+      "level": 82
+    },
+    {
+      "name": "Kafka",
+      "level": 76
+    },
+    {
+      "name": "Elasticsearch",
+      "level": 74
+    },
+    {
+      "name": "Git/GitHub",
+      "level": 85
+    }
+  ],
+  "concepts": [
+    "RAG",
+    "Transformers",
+    "FAISS",
+    "LangChain",
+    "CNNs",
+    "Microservices",
+    "JWT",
+    "WebSockets",
+    "SQLAlchemy",
+    "Pydantic",
+    "CI/CD"
+  ],
+  "experience": [
+    {
+      "company": "Jabil Inc",
+      "role": "Diagnostic Technician",
+      "period": "Jun 2025 \u2013 Present",
+      "bullets": [
+        "Automated diagnostics with Python scripts for test data collection/reporting, cutting analysis time by 25%.",
+        "Validated embedded systems and integrated software\u2011driven testing tools; ensured compliance with quality standards.",
+        "Conducted functional, in\u2011circuit, and system\u2011level testing of electronic assemblies; improved fault isolation efficiency by 20%.",
+        "Leveraged Linux tools, oscilloscopes, and logic analyzers to identify anomalies; contributed to a 15% increase in first\u2011pass yield."
+      ]
+    },
+    {
+      "company": "University of Cincinnati",
+      "role": "Software Engineer Intern",
+      "period": "Jan 2025 \u2013 Apr 2025",
+      "bullets": [
+        "Built FastAPI microservices to automate ingestion of external lab results and integrate with EMR systems.",
+        "Extended Python parsing to handle new lab formats; added custom logic for flexibility.",
+        "Created FastAPI endpoints for efficient retrieval of processed lab data by internal systems.",
+        "Optimized SQLAlchemy queries and added Pydantic validation for scalable processing of large datasets.",
+        "Upgraded AWS Lambda functions and decoupled processing via SQS; added pytest and GitHub Actions for CI."
+      ]
+    },
+    {
+      "company": "TechSoft Solutions",
+      "role": "Full\u2011stack Engineer",
+      "period": "Jul 2022 \u2013 Jul 2023",
+      "bullets": [
+        "Developed secure REST APIs in FastAPI with JWT\u2011based RBAC for multi\u2011user healthcare systems.",
+        "Built async Kafka consumers (aiokafka) and managed topics with Confluent AdminClient for real\u2011time pipelines.",
+        "Developed modular React components; integrated via WebSockets and REST for real\u2011time UI updates.",
+        "Implemented Elasticsearch for blazing search + filtering; backed by PostgreSQL for durable queries."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "NovaRAG",
+      "tag": "RAG \u2022 .NET 8 \u2022 FastAPI",
+      "desc": "Two\u2011service RAG app: .NET 8 API gateway for auth/metadata; Python FastAPI for AI. Uses MiniLM L6 v2, chunking, NumPy cosine, EF Core + SQLite, JWT.",
+      "repo": ""
+    },
+    {
+      "name": "AI Research Assistant",
+      "tag": "RAG \u2022 FAISS \u2022 Transformers",
+      "desc": "Semantic search and contextual Q&A over PDFs/URLs. Embeddings via Transformers, vector store in FAISS, citation\u2011aware responses.",
+      "repo": ""
+    },
+    {
+      "name": "Agentic AI Chatbot",
+      "tag": "DialoGPT \u2022 Gradio",
+      "desc": "Local conversational agent using microsoft/DialoGPT\u2011medium. Real\u2011time Gradio UI, tunable params, offline\u2011friendly.",
+      "repo": ""
+    },
+    {
+      "name": "Brain Tumor Detection",
+      "tag": "TensorFlow \u2022 Keras \u2022 FastAPI",
+      "desc": "CNN classifier on MRI scans with preprocessing + augmentation. Deployed via FastAPI + TensorFlow Serving; React frontend.",
+      "repo": ""
+    }
+  ],
+  "education": {
+    "school": "University of Cincinnati",
+    "degree": "M.S. in Computer Science",
+    "gpa": "3.96/4",
+    "period": "Aug 2023 \u2013 May 2025",
+    "courses": [
+      "Cloud Computing",
+      "Web Development",
+      "Advanced Algorithms",
+      "Machine Learning",
+      "Deep Learning",
+      "Design Patterns",
+      "Neural Networks",
+      "Security"
+    ]
+  },
+  "certs": [
+    "Microsoft Certified: Azure Fundamentals",
+    "HackerRank: Python & Problem Solving"
+  ]
+}
