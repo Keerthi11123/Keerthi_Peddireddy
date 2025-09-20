@@ -109,31 +109,31 @@
       "name": "NovaRAG",
       "tag": "RAG \u2022 .NET 8 \u2022 FastAPI",
       "desc": "Two\u2011service RAG app: .NET 8 API gateway for auth/metadata; Python FastAPI for AI. Uses MiniLM L6 v2, chunking, NumPy cosine, EF Core + SQLite, JWT.",
-      "repo": ""
+      "repo": "https://github.com/Keerthi11123/novarag"
     },
     {
       "name": "AI Research Assistant",
       "tag": "RAG \u2022 FAISS \u2022 Transformers",
       "desc": "Semantic search and contextual Q&A over PDFs/URLs. Embeddings via Transformers, vector store in FAISS, citation\u2011aware responses.",
-      "repo": ""
+      "repo": "https://github.com/Keerthi11123/AI_Research_Assistant"
     },
     {
       "name": "Agentic AI Chatbot",
       "tag": "DialoGPT \u2022 Gradio",
       "desc": "Local conversational agent using microsoft/DialoGPT\u2011medium. Real\u2011time Gradio UI, tunable params, offline\u2011friendly.",
-      "repo": ""
+      "repo": "https://github.com/Keerthi11123/my_chatbot"
     },
     {
       "name": "Brain Tumor Detection",
       "tag": "TensorFlow \u2022 Keras \u2022 FastAPI",
       "desc": "CNN classifier on MRI scans with preprocessing + augmentation. Deployed via FastAPI + TensorFlow Serving; React frontend.",
-      "repo": ""
+      "repo": "https://github.com/Keerthi11123/Brain-Tumor-Detection"
     }
   ],
   "education": {
     "school": "University of Cincinnati",
-    "degree": "M.S. in Computer Science",
-    "gpa": "3.96/4",
+    "degree": "M.Eng. in Computer Science",
+    "gpa": "3.9/4",
     "period": "Aug 2023 \u2013 May 2025",
     "courses": [
       "Cloud Computing",
