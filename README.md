@@ -1,27 +1,68 @@
-# Keerthi Peddireddy – Portfolio Site
+# 🚀 Keerthi Peddireddy – Interactive Portfolio
 
-A fast, interactive, one‑page portfolio with hash‑routing, dark/light mode, animated radar skill chart, and project/experience views. No frameworks – deploy anywhere (GitHub Pages/Netlify/Vercel/S3).
+This is my personal **interactive portfolio website** built with **vanilla HTML, CSS, and JavaScript**.  
+It’s designed to showcase my technical skills, projects, and experience in a way that reflects my strengths as a **Software Engineer with a focus on AI/ML**.
 
-## How to deploy (GitHub Pages)
-1. Create a repo named `Keerthi_Peddireddy` on GitHub.
-2. Upload the contents of this folder (index.html, styles.css, script.js, data.json, assets/).
-3. In repo settings → Pages → set Source = `main` branch `/ (root)`.
-4. Your site will be live at `https://Keerthi11123.github.io/keerthi-portfolio/`
+🔗 **Live Site:** https://Keerthi11123.github.io/Keerthi_Peddireddy/
 
-## Customize
-- Replace `assets/avatar.svg` with your photo (use the same filename).
-- Edit `data.json` to add your actual GitHub/LinkedIn URLs and repo links.
-- Everything else updates automatically.
+---
 
-## Local preview
-Open `index.html` in a browser. (If fonts don’t load locally, they will on deploy.)
+## 🎯 Why I Built This
+Most resumes and PDFs are static, but I wanted to show:
+- That I can design and build **interactive, user-friendly web apps** from scratch.  
+- How I combine **engineering and AI/ML expertise** into clean, functional systems.  
+- My ability to create **scalable, maintainable, and visually engaging** solutions.  
 
-## Structure
-- index.html – layout + containers
-- styles.css – minimal, modern glass UI (dark/light)
-- script.js – router + renderers + radar chart
-- data.json – your content
-- assets/avatar.svg – avatar placeholder
+This portfolio is not just a digital resume—it’s a **demonstration of my technical ability**.
 
+---
 
-Expected GitHub Pages URL (after enabling Pages): https://Keerthi11123.github.io/Keerthi_Peddireddy/
+## 🛠️ Tech Stack
+
+- **Frontend**:  
+  - HTML5, CSS3, JavaScript (no frameworks, fast and lightweight)  
+  - Responsive design with **glassmorphism** styling and **dark/light mode** toggle  
+
+- **Visualization**:  
+  - Custom **radar chart** built with Canvas API to show skills  
+  - Interactive progress bars for technical stack  
+
+- **Routing & Structure**:  
+  - Single-Page App style with **hash-based routing** (Home, Skills, Projects, Experience, Education, Contact)  
+  - Content separated into a `data.json` file for easy updates  
+
+- **Deployment**:  
+  - Hosted via **GitHub Pages** for free and fast access  
+
+---
+
+## 📂 What’s Inside
+- `index.html` → Structure of the site  
+- `styles.css` → Modern design system (dark/light mode, responsive layout)  
+- `script.js` → Routing, rendering, and chart drawing logic  
+- `data.json` → All my content (skills, projects, experience, education, contact)  
+- `assets/avatar.svg` → Placeholder avatar (can be swapped with my photo)  
+
+---
+
+## 💡 Features I’m Highlighting
+- **Full-stack mindset:** I can build both backend systems (FastAPI, Kafka, AWS, SQL) and polished frontends.  
+- **AI/ML integration:** My projects show hands-on work with Transformers, RAG pipelines, CNNs, and applied ML.  
+- **System design:** Organized content, modular structure, easy to extend and maintain.  
+- **Attention to detail:** Clean visuals, interactive elements, and performance-focused design.  
+
+---
+
+## 🚀 Next Steps
+- Add **live GitHub repo links** for each project card  
+- Replace avatar with a professional photo  
+- Enhance interactivity with animations and transitions  
+
+---
+
+## 📬 Contact
+- GitHub: [Keerthi11123](https://github.com/Keerthi11123)  
+- Email: keerthireddyc7@gmail.com  
+
+---
+✨ Built to show who I am—not just on paper, but in **code, design, and execution**.
