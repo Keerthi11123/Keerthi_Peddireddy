@@ -3,10 +3,10 @@
   "title": "Full\u2011Stack Engineer \u2022 Applied AI & ML",
   "location": "Cincinnati, OH",
   "email": "keerthireddyc7@gmail.com",
-  "phone": "513(859)4485",
   "profiles": {
     "github": "https://github.com/Keerthi11123",
-    "linkedin": ""
+    "linkedin": "https://www.linkedin.com/in/keerthipeddireddy",
+    "website": "https://keerthi11123.github.io/Keerthi_Peddireddy"
   },
   "summary": "Full\u2011stack software engineer with a passion for building secure, real\u2011time systems and a growing focus on applied AI and machine learning. From architecting FastAPI\u2011Kafka backends to deploying LLM\u2011based assistants and CNN models, I thrive at the intersection of infrastructure and intelligence. Curious, hands\u2011on, and impact\u2011driven\u2014I enjoy turning complex data and models into practical, user\u2011facing tools that solve real problems.",
   "skills": [
@@ -128,6 +128,24 @@
       "tag": "TensorFlow \u2022 Keras \u2022 FastAPI",
       "desc": "CNN classifier on MRI scans with preprocessing + augmentation. Deployed via FastAPI + TensorFlow Serving; React frontend.",
       "repo": "https://github.com/Keerthi11123/Brain-Tumor-Detection"
+    },
+    {
+  "name": "Email App",
+  "tag": "Flask \u2022 SQLite \u2022 SMTP",
+  "desc": "Lightweight email client with Flask backend, SQLite storage, and SMTP/IMAP integration. Supports compose, inbox view, and local persistence.",
+  "repo": "https://github.com/Keerthi11123/email_app"
+    },
+    {
+      "name": "Sudoku Game",
+      "tag": "JavaScript \u2022 HTML5 \u2022 CSS3",
+      "desc": "Interactive Sudoku puzzle with grid validation and highlighting. Features number input buttons, difficulty levels, and responsive design.",
+      "repo": "https://github.com/Keerthi11123/sudoku-game"
+    },
+    {
+      "name": "Forecast Buddy",
+      "tag": "Python \u2022 OpenWeather API \u2022 Tkinter",
+      "desc": "Weather forecasting app with GUI built in Tkinter. Fetches real-time data from OpenWeather API and visualizes temperature, humidity, and wind.",
+      "repo": "https://github.com/Keerthi11123/forecast-buddy"
     }
   ],
   "education": {
